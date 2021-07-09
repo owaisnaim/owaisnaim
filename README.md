@@ -8,7 +8,7 @@ I'm a software engineer at Tata Consultancy Services. I am working on some side 
 ### ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on C Sharp,Asp.net MVC.
-- 🌱 Learning about java, spring boot, a bit of everything.
+- 🌱 Learning about java, spring boot.
 - 💬 Ask me about anything.
 - 📫 Reach me: owaisnaim9@gmail.com
 - ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
