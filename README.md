@@ -1,4 +1,4 @@
-# Hi 👋, I'm Owais.
+# Hi 👋, Myself Owais.
 
 I'm a Software Engineer at Tata Consultancy Services. I am learning a couple new dishes, and trying to learn something new everyday.
 
