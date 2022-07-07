@@ -8,6 +8,5 @@ I'm a Software Engineer at Compunnel Digital. I am learning a couple new dishes,
 ### ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working in Java, Spring Boot, JPA, Sql Server.
-- 💬 Ask me about anything.
 - 📫 Reach me: owaisnaim9@gmail.com
 - ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
