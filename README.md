@@ -1,4 +1,4 @@
-# Hi 👋, I"m Owais.
+# Hi 👋, I'm Owais.
 
 I am a Software Engineer at Compunnel Digital. I am learning a couple new dishes, and trying to learn something new everyday.
 
