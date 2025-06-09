@@ -7,6 +7,6 @@ I am a Senior Software Engineer at Publicis Sapient.
 
 ### ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working in Java, Spring Boot, Microservices, Sql Server.
+- 🔭 I’m currently working in Java, Spring Boot, Microservices and AWS.
 - 📫 Reach me: owaisnaim9@gmail.com
 - ⚡ Fun fact: There are two ways to write error-free programs; only the third one works.
