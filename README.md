@@ -31,8 +31,8 @@ I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** w
 #### **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Microservices-38B2AC?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Microservices-38B2AC?style=for-the-badge" alt="Microservices" />
   <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge" alt="RESTful APIs" />
   <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
   <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
@@ -40,11 +40,11 @@ I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** w
 
 #### **Cloud & Infrastructure (AWS)**
 <p>
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/Amazon_SES-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white" alt="AWS SES" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="AWS RDS" />
-  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="AWS CloudWatch" />
+  <img src="https://img.shields.io/badge/Amazon_SES-DD344C?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS SES" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS RDS" />
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CloudWatch" />
 </p>
 
 #### **Databases & Caching**
@@ -77,15 +77,23 @@ I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** w
 
 ---
 
-### 📊 GitHub Overview
+### 📊 GitHub Overview & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=owaisnaim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Owais's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisnaim&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=owaisnaim&color=2088FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/owaisnaim?label=Followers&style=for-the-badge&logo=github&color=28a745" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-orange?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/Status-Active_Contributor-brightgreen?style=for-the-badge" alt="Status" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=owaisnaim&theme=radical&no-frame=true&margin_w=4" alt="GitHub Trophies" />
+<br/>
+
+<div align="center">
+
+| 🏗️ Architecture & Backend | ☁️ Cloud & DevOps | 🛡️ Reliability & Quality |
+| :--- | :--- | :--- |
+| • Distributed Microservices<br/>• High-Throughput REST APIs<br/>• Spring Boot & JPA<br/>• Database Query Optimization | • AWS (S3, SES, RDS, CloudWatch)<br/>• CI/CD Pipeline Automation<br/>• Redis Caching Layers<br/>• Infrastructure Migration | • Transaction Monitoring Engine<br/>• Fraud & Anomaly Detection<br/>• AML Regulatory Compliance<br/>• High Test Coverage (Up to 100%) |
+
 </div>
 
 ---
