@@ -16,10 +16,10 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software Engineer** at **[Publicis Sapient](https://www.publicissapient.com/)** with 5+ years of experience in architecting, developing, and optimizing high-performance distributed systems, enterprise microservices, and cloud-native solutions.
+I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** with 6+ years of experience in architecting, developing, and optimizing high-performance distributed systems, enterprise microservices, and cloud-native solutions.
 
 - 🔭 **Currently Building**: Scalable **Transaction Monitoring & Fraud Detection Systems** and High-Availability microservices in **Java & Spring Boot**.
-- 💼 **Experience**: **Publicis Sapient** (Senior Software Engineer) • **Compunnel Inc** (Software Engineer L2) • **Tata Consultancy Services** (Assistant System Engineer).
+- 💼 **Experience**: **Mphasis** (Senior Software Engineer) • **Publicis Sapient** • **Compunnel Inc** • **Tata Consultancy Services**.
 - ⚙️ **Specialties**: Microservices Architecture, Distributed Systems, High-Availability Cloud Services (AWS), Database Optimization & Caching, Automated CI/CD.
 - 🎯 **Engineering Philosophy**: Writing robust, maintainable, and clean code with a strong emphasis on high test coverage (up to 100% unit test coverage).
 - 🎓 **Education**: B.Tech in Information Technology from *University Institute of Engineering and Technology (UIET), Kanpur*.
