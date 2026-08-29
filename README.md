@@ -77,16 +77,7 @@ I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** w
 
 ---
 
-### 📊 GitHub Overview & Metrics
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=owaisnaim&color=2088FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/owaisnaim?label=Followers&style=for-the-badge&logo=github&color=28a745" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Experience-6%2B_Years-orange?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/Status-Active_Contributor-brightgreen?style=for-the-badge" alt="Status" />
-</div>
-
-<br/>
+### 🏛️ Core Engineering & Architecture Focus
 
 <div align="center">
 
