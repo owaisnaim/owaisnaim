@@ -77,15 +77,15 @@ I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** w
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Overview
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=owaisnaim&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Owais's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaisnaim&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owaisnaim&theme=radical&hide_border=true" alt="GitHub Streak" width="94%" />
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=owaisnaim&theme=radical&no-frame=true&margin_w=4" alt="GitHub Trophies" />
 </div>
 
 ---
