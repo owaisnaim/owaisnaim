@@ -21,7 +21,6 @@ I am a **Senior Software Engineer** at **[Mphasis](https://www.mphasis.com/)** w
 - 🔭 **Currently Building**: Scalable **Transaction Monitoring & Fraud Detection Systems** and High-Availability microservices in **Java & Spring Boot**.
 - ⚙️ **Specialties**: Microservices Architecture, Distributed Systems, High-Availability Cloud Services (AWS), Database Optimization & Caching, Automated CI/CD.
 - 🎯 **Engineering Philosophy**: Writing robust, maintainable, and clean code with a strong emphasis on high test coverage (up to 100% unit test coverage).
-- 🎓 **Education**: B.Tech in Information Technology from *University Institute of Engineering and Technology (UIET), Kanpur*.
 - 📫 **Reach Me**: [owaisnaim9@gmail.com](mailto:owaisnaim9@gmail.com)
 
 ---
