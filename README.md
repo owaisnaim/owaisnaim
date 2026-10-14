@@ -47,14 +47,6 @@ Senior Software Engineer with 6+ years of experience architecting, developing, a
 
 ---
 
-### Featured Repositories & System Design
-
-- **[Ride-Sharing-App-Springboot](https://github.com/owaisnaim/Ride-Sharing-App-Springboot)** — Enterprise ride-sharing & carpooling backend featuring custom driver-matching strategies, multi-hop journey splitting, and clean modular architecture.
-- **[Kafka-SpringBoot-App](https://github.com/owaisnaim/Kafka-SpringBoot-App)** — Asynchronous event streaming and message processing pipeline built with Apache Kafka and Spring Kafka.
-- **[S3Bucket-Spring-Boot-App](https://github.com/owaisnaim/S3Bucket-Spring-Boot-App)** — Cloud storage integration service utilizing AWS S3 and Spring Boot for secure document lifecycle handling.
-
----
-
 <div align="center">
   <p><i>"There are two ways to write error-free programs; only the third one works."</i></p>
   <p>Connect with me on <a href="https://www.linkedin.com/in/owaisnaim/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or reach out at <a href="mailto:owaisnaim9@gmail.com">owaisnaim9@gmail.com</a>.</p>
