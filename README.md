@@ -1,4 +1,5 @@
 # Mohd Owais Naim
+#### Senior Software Engineer · Distributed Systems & Cloud-Native Architectures
 
 <div align="left">
   <a href="https://www.linkedin.com/in/owaisnaim/" target="_blank" rel="noopener noreferrer">
@@ -28,7 +29,7 @@ Senior Software Engineer with 6+ years of experience architecting, developing, a
 
 - **Transaction Monitoring & Fraud Detection:** Architected and implemented a transaction monitoring engine with 10+ custom rules tracking gaming activity, anomaly detection, and automated administrator alerting.
 - **Performance Optimization:** Cut website load times by 30% through multi-level caching strategies, query tuning, and index optimizations.
-- **High-Availability Email Infrastructure:** Built a zero-downtime email processing pipeline handling 1,000+ daily transactions using AWS SES & S3.
+- **High-Availability Email Infrastructure:** Architected a fault-tolerant, zero-downtime email processing pipeline with automated retry mechanisms and dead-letter queues (AWS SES & S3), achieving 99.9%+ delivery reliability.
 - **Enterprise Modernization:** Re-architected multi-page web applications into unified Spring Boot single-page architectures, driving an estimated **$1.1M yearly revenue lift**.
 - **Anti-Money Laundering (AML) Platform:** Led development and infrastructure cloud migration, schema refinement, and production rollout.
 
@@ -43,6 +44,14 @@ Senior Software Engineer with 6+ years of experience architecting, developing, a
 | **Cloud & DevOps** | `AWS (S3, SES, RDS, CloudWatch)` `CI/CD Pipelines` `Jenkins` `Git` |
 | **Databases & Caching** | `Redis` `MariaDB` `Microsoft SQL Server` `Stored Procedures` |
 | **Testing & Quality** | `JUnit 5` `Mockito` `TDD` |
+
+---
+
+### Featured Repositories & System Design
+
+- **[Ride-Sharing-App-Springboot](https://github.com/owaisnaim/Ride-Sharing-App-Springboot)** — Enterprise ride-sharing & carpooling backend featuring custom driver-matching strategies, multi-hop journey splitting, and clean modular architecture.
+- **[Kafka-SpringBoot-App](https://github.com/owaisnaim/Kafka-SpringBoot-App)** — Asynchronous event streaming and message processing pipeline built with Apache Kafka and Spring Kafka.
+- **[S3Bucket-Spring-Boot-App](https://github.com/owaisnaim/S3Bucket-Spring-Boot-App)** — Cloud storage integration service utilizing AWS S3 and Spring Boot for secure document lifecycle handling.
 
 ---
 
