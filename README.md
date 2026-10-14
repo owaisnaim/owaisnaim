@@ -41,6 +41,7 @@ Senior Software Engineer with 6+ years of experience architecting, developing, a
 | :--- | :--- |
 | **Languages & Core** | `Java` `SQL` |
 | **Frameworks & Architecture** | `Spring Boot` `Spring Data JPA` `Microservices` `RESTful APIs` `Flyway` |
+| **Messaging & Streaming** | `Apache Kafka` `Spring Kafka` |
 | **Cloud & DevOps** | `AWS (S3, SES, RDS, CloudWatch)` `CI/CD Pipelines` `Jenkins` `Git` |
 | **Databases & Caching** | `Redis` `MariaDB` `Microsoft SQL Server` `Stored Procedures` |
 | **Testing & Quality** | `JUnit 5` `Mockito` `TDD` |
