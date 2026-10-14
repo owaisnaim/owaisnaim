@@ -21,7 +21,7 @@ Senior Software Engineer with 6+ years of experience architecting, developing, a
 
 - **Current Focus:** Architecting High-Availability Microservices, Distributed Data Pipelines, and Scalable Backend Systems in **Java & Spring Boot**.
 - **Specialties:** Microservices Architecture, Distributed Systems, High-Availability Cloud Services (AWS), Database Optimization & Caching, Automated CI/CD.
-- **Engineering Philosophy:** Writing robust, maintainable, and clean code with a strong emphasis on high test coverage (up to 100% unit test coverage).
+- **Engineering Philosophy:** Writing robust, maintainable, and clean code with a strong emphasis on high test coverage (up to 100%), idempotency, and graceful failure handling.
 
 ---
 
